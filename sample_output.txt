@@ -1,0 +1,16 @@
+Sample input:
+5
+0 1 1 0 0
+1 0 0 1 0
+1 0 0 0 1
+0 1 0 0 0
+0 0 1 0 0
+0
+4
+
+Expected output:
+BFS Traversal: 0 1 2 3 4
+File found using BFS.
+
+DFS Traversal: 0 1 3 2 4
+File found using DFS.
